@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_OTWuAPLjEeyIvZoFL7B90A" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_OTWuAfLjEeyIvZoFL7B90A" comment="" name="sample_message" prompt="sample_message?" promptNeeded="false" type="id_String" value="Context group: Hello World!"/>
+</talendfile:ContextType>
