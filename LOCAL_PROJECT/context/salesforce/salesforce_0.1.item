@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_12eHIPX9EeyEeMM6C4GyuQ" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_12eHIfX9EeyEeMM6C4GyuQ" comment="" name="salesforce_url" prompt="salesforce_url?" promptNeeded="false" type="id_String" value="https://empathetic-raccoon-hi2z6i-dev-ed.my.salesforce.com"/>
+  <contextParameter xmi:id="_12eHIvX9EeyEeMM6C4GyuQ" comment="" name="salesforce_username" prompt="salesforce_username?" promptNeeded="false" type="id_String" value="deschanel.tchatchi@empathetic-raccoon-hi2z6i.com"/>
+  <contextParameter xmi:id="_12eHI_X9EeyEeMM6C4GyuQ" comment="" name="salesforce_password" prompt="salesforce_password?" promptNeeded="false" type="id_String" value="deprled99"/>
+  <contextParameter xmi:id="_12eHJPX9EeyEeMM6C4GyuQ" comment="" name="salesforce_security_token" prompt="salesforce_security_token?" promptNeeded="false" type="id_String" value="8fbit8ViAtQlzGXS88CpgLx0"/>
+</talendfile:ContextType>
